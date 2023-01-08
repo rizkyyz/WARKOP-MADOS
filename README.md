@@ -2,6 +2,8 @@ PROJECT AKHIR SEMESTER 5
 
 PEMROGRAMAN BERORIENTASI OBJECT
 
+** KELOMPOK
+
 | NAMA        |   NIM      |
 |-------------------|-------------------|
 | M.RIZKY ABDILLAH        | 312010386   |
