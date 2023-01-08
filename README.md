@@ -51,4 +51,6 @@ PEMROGRAMAN BERORIENTASI OBJECT
 
 * Dan yang terakhir disini saya ingin melengkapi tugas saya dengan membantu form voting hasil project saya
   silahkan kunjungi barcode di bawah ini 
+  
+# Barcode me
 ![Hasil](barcode.png)
