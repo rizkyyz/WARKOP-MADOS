@@ -2,7 +2,7 @@ PROJECT AKHIR SEMESTER 5
 
 PEMROGRAMAN BERORIENTASI OBJECT
 
-** KELOMPOK
+* KELOMPOK
 
 | NAMA        |   NIM      |
 |-------------------|-------------------|
