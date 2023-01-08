@@ -28,10 +28,10 @@
 # Vitur Tampilan
 
 1. admin
-![Hasil](img/admin.png)
+![Hasil](admin.png)
 
 2. pelanggan
-![Hasil](img/pelanggan.png)
+![Hasil](pelanggan.png)
 
 # Manfaat Dan Tujuan Aplikasi
 
