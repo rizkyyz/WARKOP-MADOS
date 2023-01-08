@@ -49,3 +49,6 @@ PEMROGRAMAN BERORIENTASI OBJECT
 
 * Tujuan dalam pembuatan aplikasi pemesanan makanan dan minuman ini adalah dapat mempermudah pekerjaan dalam pencatatan agar pemesanan lebih mudah
 
+* Dan yang terakhir disini saya ingin melengkapi tugas saya dengan membantu form voting hasil project saya
+  silahkan kunjungi barcode di bawah ini 
+![Hasil](barcode.png)
